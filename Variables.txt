@@ -1,0 +1,29 @@
+
+VARIABLES 
+
+
+
+FOR DARK MODE /////////////////////////////////
+
+grayish COLOR      ====>> #5e6b7e
+Dark BLUESH GRAY   ====>>  #283345
+Light Gray                  #a9adb4
+Orange                  #f99206
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOR LIGHT MODE  //////////////////////////////////////
+
+Dark ROYAL Blue #0f162e
+Alice White Color  #f1f3f6
+MEDIUM GRAY #696e7e
